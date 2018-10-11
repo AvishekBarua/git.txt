@@ -1,8 +1,6 @@
 commit 1
 commit 2 // added in github
 commit 3 // added in laptop
-<<<<<<< HEAD
 commit 4 // added in github
-=======
-commit 6 // added in laptop
->>>>>>> d570df2... commit 6 // laptop
+commit 6 // ++added in laptop
+commit 8 // added in laptop
